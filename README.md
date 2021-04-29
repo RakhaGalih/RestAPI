@@ -18,6 +18,10 @@
 
 ### Pembahasan Projek
 ### Retrofit
-> 
+> Retrofit adalah sebuah library android yang membantu pengembang untuk melakukan
+request ke sebuah endpoint REST API. Library ini
+menyederhanakan kode program yang digunakan untuk mengakses REST API.retrofit juga
+mendukung berbagai macam format authentikasi via http, menambahkan header pada request,
+menambahkan parameter serta mengirim data berupa image ke server.
 
 ### Screenshot
