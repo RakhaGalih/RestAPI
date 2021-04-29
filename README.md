@@ -25,3 +25,6 @@ mendukung berbagai macam format authentikasi via http, menambahkan header pada r
 menambahkan parameter serta mengirim data berupa image ke server.
 
 ### Screenshot
+
+> output
+>![ss](https://user-images.githubusercontent.com/54633534/116559753-f17aa780-a92a-11eb-8b04-7065e33f6b4d.jpeg)
