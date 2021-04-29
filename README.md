@@ -5,15 +5,11 @@
 
 > REST API merupakan salah satu dari desain arsitektur yang terdapat di dalam API itu sendiri. Singkatnya, jika server adalah koki, dan user adalah pelanggan. Maka REST API adalah pelayannya. yang menghubungkan antara pelanggan dan koki. Setelah koki selesai memasak (setelah diambil dari server) pelayan juga yang akan mengantarnya pada pelanggan (user).
 > Adapun metode HTTP yang secara umum dipakai dalam REST api adalah:
-> 
+
 - GET, berfungsi untuk membaca data/resource dari REST server
-
 - POST, berfungsi untuk membuat sebuah data/resource baru di REST server
-
 - PUT, berfungsi untuk memperbaharui data/resource di REST server
-
 - DELETE, berfungsi untuk menghapus data/resource dari REST server
-
 - OPTIONS, berfungsi untuk mendapatkan operasi yang disupport pada resource dari REST server.
 
 ### Pembahasan Projek
