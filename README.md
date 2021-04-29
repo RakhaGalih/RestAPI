@@ -1,15 +1,18 @@
 # REST API
 ## Rakha Galih Nugraha S
 ### Pembahasan
-> Fragment adalah komponen yang memiliki fungsi untuk menampilkan antarmuka ke
-pengguna melalui activity dengan memiliki layout xml sendiri.
+> API adalah singkatan dari Application Programming Interface. Maksudnya, API ini adalah sebuah interface atau penghubung antar aplikasi. Yang juga dapat digunakan untuk saling berbagi data antar aplikasi yang berbeda tersebut, dan juga untuk mempercepat proses pengembangan aplikasi dengan cara menyediakan sebuah function yang terpisah sehingga para developer tidak perlu lagi membuat fitur yang serupa.
 
-> Fragment digunakan agar
-komponen tampillan aplikasi menjadi fleksibel dan dapat digunakan kembali ( reusable). 
-
-> Fragment juga bisa disebut sub nya activity, satu activity bisa memiliki lebih dari satu fragment.
+> REST API merupakan salah satu dari desain arsitektur yang terdapat di dalam API itu sendiri. Singkatnya, jika server adalah koki, dan user adalah pelanggan. Maka REST API adalah pelayannya. yang menghubungkan antara pelanggan dan koki. Setelah koki selesai memasak (setelah diambil dari server) pelayan juga yang akan mengantarnya pada pelanggan (user).
+> Adapun metode HTTP yang secara umum dipakai dalam REST api adalah:
+• GET, berfungsi untuk membaca data/resource dari REST server
+• POST, berfungsi untuk membuat sebuah data/resource baru di REST server
+• PUT, berfungsi untuk memperbaharui data/resource di REST server
+• DELETE, berfungsi untuk menghapus data/resource dari REST serve
+• OPTIONS, berfungsi untuk mendapatkan operasi yang disupport pada resource dari REST server.
 
 ### Pembahasan Projek
-> Fragment pada projek ini sendiri merupakan komponen dapat diubah tanpa merubah atau mengganti activity atau halaman. Kedua Fragment dapat di ganti dengan menekan tab pada view pager. pada fragment kedua, sebuah TextView pada fragment tersebut juga dapat diubah dengan mengganti input pada fragment pertama. 
+### Retrofit
+> 
 
 ### Screenshot
